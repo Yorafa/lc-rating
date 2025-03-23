@@ -541,20 +541,6 @@ export default{
                             "last_update": ""
                         },
                         {
-                            "title": "3430. 最多 K 个元素的子数组的最值之和",
-                            "summary": "",
-                            "src": "/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
-                            "original_src": "https://leetcode.cn/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
-                            "sort": 0,
-                            "isLeaf": true,
-                            "solution": null,
-                            "score": 2644.9681021386,
-                            "leafChild": [],
-                            "nonLeafChild": [],
-                            "isPremium": false,
-                            "last_update": ""
-                        },
-                        {
                             "title": "2281. 巫师的总力量和（最小值×和）",
                             "summary": "",
                             "src": "/sum-of-total-strength-of-wizards/",
@@ -563,6 +549,20 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 2621.1208072273,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "3430. 最多 K 个元素的子数组的最值之和",
+                            "summary": "",
+                            "src": "/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
+                            "original_src": "https://leetcode.cn/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": 2644.9681021386,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -720,5 +720,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-03-11 04:19:09"
+    "last_update": "2025-03-20 02:00:21"
 } as ProblemCategory;

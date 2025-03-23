@@ -4218,20 +4218,6 @@ export default{
                                     "last_update": ""
                                 },
                                 {
-                                    "title": "3425. 最长特殊路径",
-                                    "summary": "",
-                                    "src": "/longest-special-path/",
-                                    "original_src": "https://leetcode.cn/problems/longest-special-path/",
-                                    "sort": 0,
-                                    "isLeaf": true,
-                                    "solution": null,
-                                    "score": 2434.6549114916,
-                                    "leafChild": [],
-                                    "nonLeafChild": [],
-                                    "isPremium": false,
-                                    "last_update": ""
-                                },
-                                {
                                     "title": "2791. 树中可以形成回文的路径数",
                                     "summary": "",
                                     "src": "/count-paths-that-can-form-a-palindrome-in-a-tree/",
@@ -4593,7 +4579,7 @@ export default{
                         },
                         {
                             "title": "§3.8 最近公共祖先（LCA）",
-                            "summary": "<a href=\"https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/solution/mo-ban-jiang-jie-shu-shang-bei-zeng-suan-v3rw/\">讲解</a><br>",
+                            "summary": "<a href=\"https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/solution/mo-ban-jiang-jie-shu-shang-bei-zeng-suan-v3rw/\">讲解</a><br>**数组上的倍增**：<br>",
                             "src": "",
                             "original_src": "",
                             "sort": 0,
@@ -4642,6 +4628,20 @@ export default{
                                     "nonLeafChild": [],
                                     "isPremium": true,
                                     "last_update": ""
+                                },
+                                {
+                                    "title": "3464. 正方形上的点之间的最大距离",
+                                    "summary": "",
+                                    "src": "/maximize-the-distance-between-points-on-a-square/",
+                                    "original_src": "https://leetcode.cn/problems/maximize-the-distance-between-points-on-a-square/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 2805.990278358,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
                                 }
                             ],
                             "nonLeafChild": [],
@@ -4649,7 +4649,50 @@ export default{
                             "last_update": ""
                         },
                         {
-                            "title": "§3.9 其他",
+                            "title": "§3.9 树上滑动窗口",
+                            "summary": "",
+                            "src": "",
+                            "original_src": "",
+                            "sort": 0,
+                            "isLeaf": false,
+                            "solution": "",
+                            "score": 0,
+                            "leafChild": [
+                                {
+                                    "title": "3425. 最长特殊路径",
+                                    "summary": "",
+                                    "src": "/longest-special-path/",
+                                    "original_src": "https://leetcode.cn/problems/longest-special-path/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 2434.6549114916,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                },
+                                {
+                                    "title": "3486. 最长特殊路径 II",
+                                    "summary": "",
+                                    "src": "/longest-special-path-ii/",
+                                    "original_src": "https://leetcode.cn/problems/longest-special-path-ii/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": null,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                }
+                            ],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "§3.10 其他",
                             "summary": "另见 <a href=\"/lc-rating/list/dynamic_programming\">动态规划题单</a> 中的「树形 DP」。<br>",
                             "src": "",
                             "original_src": "",
@@ -4796,6 +4839,20 @@ export default{
                                     "isLeaf": true,
                                     "solution": null,
                                     "score": null,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                },
+                                {
+                                    "title": "1863. 找出所有子集的异或总和再求和",
+                                    "summary": "",
+                                    "src": "/sum-of-all-subset-xor-totals/",
+                                    "original_src": "https://leetcode.cn/problems/sum-of-all-subset-xor-totals/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 1372.1152262488,
                                     "leafChild": [],
                                     "nonLeafChild": [],
                                     "isPremium": false,
@@ -5379,6 +5436,20 @@ export default{
                                     "last_update": ""
                                 },
                                 {
+                                    "title": "3437. 全排列 III",
+                                    "summary": "",
+                                    "src": "/permutations-iii/",
+                                    "original_src": "https://leetcode.cn/problems/permutations-iii/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": null,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": true,
+                                    "last_update": ""
+                                },
+                                {
                                     "title": "267. 回文排列 II",
                                     "summary": "",
                                     "src": "/palindrome-permutation-ii/",
@@ -5871,5 +5942,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-01-29 06:24:59"
+    "last_update": "2025-03-20 02:42:49"
 } as ProblemCategory;

@@ -137,7 +137,7 @@ export default{
                 },
                 {
                     "title": "§1.2 打家劫舍",
-                    "summary": "",
+                    "summary": "**思维扩展**：<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -210,6 +210,20 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 1840.513952935,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "2140. 解决智力问题",
+                            "summary": "",
+                            "src": "/solving-questions-with-brainpower/",
+                            "original_src": "https://leetcode.cn/problems/solving-questions-with-brainpower/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": 1709.1054732427,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -717,7 +731,7 @@ export default{
             "nonLeafChild": [
                 {
                     "title": "§3.1 0-1 背包",
-                    "summary": "每个物品只能选一次。<br>",
+                    "summary": "每个物品只能选一次。<br>**进阶**：<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -800,6 +814,20 @@ export default{
                             "summary": "",
                             "src": "/ones-and-zeroes/",
                             "original_src": "https://leetcode.cn/problems/ones-and-zeroes/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "3489. 零数组变换 IV",
+                            "summary": "",
+                            "src": "/zero-array-transformation-iv/",
+                            "original_src": "https://leetcode.cn/problems/zero-array-transformation-iv/",
                             "sort": 0,
                             "isLeaf": true,
                             "solution": null,
@@ -1069,8 +1097,8 @@ export default{
                     "last_update": ""
                 },
                 {
-                    "title": "§3.3 多重背包",
-                    "summary": "物品可以重复选，有个数限制。<br>> 注：力扣上只有求方案数的题目。<br>",
+                    "title": "§3.3 多重背包（选做）",
+                    "summary": "物品可以重复选，有个数限制。<br>**求方案数**<br>**二进制优化**<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -1115,6 +1143,20 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 2758.9704056427,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "3489. 零数组变换 IV",
+                            "summary": "",
+                            "src": "/zero-array-transformation-iv/",
+                            "original_src": "https://leetcode.cn/problems/zero-array-transformation-iv/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -2577,6 +2619,20 @@ export default{
                             "nonLeafChild": [],
                             "isPremium": false,
                             "last_update": ""
+                        },
+                        {
+                            "title": "3466. 最大硬币收集量",
+                            "summary": "",
+                            "src": "/maximum-coin-collection/",
+                            "original_src": "https://leetcode.cn/problems/maximum-coin-collection/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": true,
+                            "last_update": ""
                         }
                     ],
                     "nonLeafChild": [],
@@ -3734,6 +3790,20 @@ export default{
                             "last_update": ""
                         },
                         {
+                            "title": "3469. 移除所有数组元素的最小代价",
+                            "summary": "",
+                            "src": "/find-minimum-cost-to-remove-array-elements/",
+                            "original_src": "https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": 2111.9501657249,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
                             "title": "1444. 切披萨的方案数",
                             "summary": "",
                             "src": "/number-of-ways-of-cutting-a-pizza/",
@@ -3812,20 +3882,6 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": null,
-                            "leafChild": [],
-                            "nonLeafChild": [],
-                            "isPremium": false,
-                            "last_update": ""
-                        },
-                        {
-                            "title": "3469. 移除所有数组元素的最小代价",
-                            "summary": "",
-                            "src": "/find-minimum-cost-to-remove-array-elements/",
-                            "original_src": "https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements/",
-                            "sort": 0,
-                            "isLeaf": true,
-                            "solution": null,
-                            "score": 2111.9501657249,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -4014,20 +4070,6 @@ export default{
                             "last_update": ""
                         },
                         {
-                            "title": "LCP 57. 打地鼠",
-                            "summary": "",
-                            "src": "/ZbAuEH/",
-                            "original_src": "https://leetcode.cn/problems/ZbAuEH/",
-                            "sort": 0,
-                            "isLeaf": true,
-                            "solution": null,
-                            "score": null,
-                            "leafChild": [],
-                            "nonLeafChild": [],
-                            "isPremium": false,
-                            "last_update": ""
-                        },
-                        {
                             "title": "3441. 变成好标题的最少代价",
                             "summary": "",
                             "src": "/minimum-cost-good-caption/",
@@ -4050,6 +4092,20 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 3027.8558407399,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "LCP 57. 打地鼠",
+                            "summary": "",
+                            "src": "/ZbAuEH/",
+                            "original_src": "https://leetcode.cn/problems/ZbAuEH/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -4988,6 +5044,20 @@ export default{
                             "last_update": ""
                         },
                         {
+                            "title": "3444. 使数组包含目标值倍数的最少增量",
+                            "summary": "",
+                            "src": "/minimum-increments-for-target-multiples-in-an-array/",
+                            "original_src": "https://leetcode.cn/problems/minimum-increments-for-target-multiples-in-an-array/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": 2336.5202025025,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
                             "title": "1349. 参加考试的最大学生数",
                             "summary": "",
                             "src": "/maximum-students-taking-exam/",
@@ -5010,20 +5080,6 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 2389.9634276167,
-                            "leafChild": [],
-                            "nonLeafChild": [],
-                            "isPremium": false,
-                            "last_update": ""
-                        },
-                        {
-                            "title": "3444. 使数组包含目标值倍数的最少增量",
-                            "summary": "",
-                            "src": "/minimum-increments-for-target-multiples-in-an-array/",
-                            "original_src": "https://leetcode.cn/problems/minimum-increments-for-target-multiples-in-an-array/",
-                            "sort": 0,
-                            "isLeaf": true,
-                            "solution": null,
-                            "score": 2336.5202025025,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -5576,6 +5632,20 @@ export default{
                     "isLeaf": true,
                     "solution": null,
                     "score": 2367.4705934718,
+                    "leafChild": [],
+                    "nonLeafChild": [],
+                    "isPremium": false,
+                    "last_update": ""
+                },
+                {
+                    "title": "3490. 统计美丽整数的数目",
+                    "summary": "",
+                    "src": "/count-beautiful-numbers/",
+                    "original_src": "https://leetcode.cn/problems/count-beautiful-numbers/",
+                    "sort": 0,
+                    "isLeaf": true,
+                    "solution": null,
+                    "score": null,
                     "leafChild": [],
                     "nonLeafChild": [],
                     "isPremium": false,
@@ -6213,6 +6283,20 @@ export default{
                             "last_update": ""
                         },
                         {
+                            "title": "2547. 拆分数组的最小代价",
+                            "summary": "",
+                            "src": "/minimum-cost-to-split-an-array/",
+                            "original_src": "https://leetcode.cn/problems/minimum-cost-to-split-an-array/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": 2019.9859462755,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
                             "title": "2916. 子数组不同元素数目的平方和 II",
                             "summary": "",
                             "src": "/subarrays-distinct-element-sum-of-squares-ii/",
@@ -6221,20 +6305,6 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 2816.0706257586,
-                            "leafChild": [],
-                            "nonLeafChild": [],
-                            "isPremium": false,
-                            "last_update": ""
-                        },
-                        {
-                            "title": "3410. 删除所有值为某个元素后的最大子数组和",
-                            "summary": "",
-                            "src": "/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/",
-                            "original_src": "https://leetcode.cn/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/",
-                            "sort": 0,
-                            "isLeaf": true,
-                            "solution": null,
-                            "score": 2843.655465882,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -6757,7 +6827,7 @@ export default{
                 },
                 {
                     "title": "§12.4 换根 DP",
-                    "summary": "也叫二次扫描法。<br><a href=\"https://leetcode.cn/problems/sum-of-distances-in-tree/solution/tu-jie-yi-zhang-tu-miao-dong-huan-gen-dp-6bgb/\">【图解】一张图秒懂换根 DP！</a><br>> 注：前后缀分解，可以视作一条链上的换根 DP。<br>",
+                    "summary": "也叫二次扫描法。<br><a href=\"https://leetcode.cn/problems/sum-of-distances-in-tree/solution/tu-jie-yi-zhang-tu-miao-dong-huan-gen-dp-6bgb/\">【图解】一张图秒懂换根 DP！</a><br>> **注**：前后缀分解，可以视作一条链上的换根 DP。<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -7938,20 +8008,6 @@ export default{
                     "last_update": ""
                 },
                 {
-                    "title": "2712. 使所有字符相等的最小成本",
-                    "summary": "",
-                    "src": "/minimum-cost-to-make-all-characters-equal/",
-                    "original_src": "https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal/",
-                    "sort": 0,
-                    "isLeaf": true,
-                    "solution": null,
-                    "score": 1791.0336923305,
-                    "leafChild": [],
-                    "nonLeafChild": [],
-                    "isPremium": false,
-                    "last_update": ""
-                },
-                {
                     "title": "1653. 使字符串平衡的最少删除次数",
                     "summary": "",
                     "src": "/minimum-deletions-to-make-string-balanced/",
@@ -9067,5 +9123,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-03-05 01:11:44"
+    "last_update": "2025-03-18 01:53:57"
 } as ProblemCategory;
