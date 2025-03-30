@@ -1025,7 +1025,7 @@ export default{
                 },
                 {
                     "title": "九、子序列自动机",
-                    "summary": "上面都是和**子串**相关的算法，本节是和**子序列**相关的算法：子序列自动机。<br>虽然名字有些高大上，但实际上只是预处理 $s[i]$ 右侧最近字母 $\\textit{c}$ 的下标而已。<br>",
+                    "summary": "上面都是和**子串**相关的算法，本节是和**子序列**相关的算法：子序列自动机。<br>虽然名字有些高大上，但实际上只是预处理 $\\ge i$ 的最近字母 $\\textit{c}$ 的下标而已。<br>见 <a href=\"https://leetcode.cn/problems/is-subsequence/solutions/2813031/jian-ji-xie-fa-pythonjavaccgojsrust-by-e-mz22/\">讲解</a> 中的「进阶问题」。<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -1143,5 +1143,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-03-20 02:43:49"
+    "last_update": "2025-03-27 01:10:28"
 } as ProblemCategory;

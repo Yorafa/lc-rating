@@ -2319,6 +2319,20 @@ export default{
                             "score": 0,
                             "leafChild": [
                                 {
+                                    "title": "2109. 向字符串添加空格",
+                                    "summary": "",
+                                    "src": "/adding-spaces-to-a-string/",
+                                    "original_src": "https://leetcode.cn/problems/adding-spaces-to-a-string/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 1315.1890809249,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                },
+                                {
                                     "title": "2540. 最小公共值",
                                     "summary": "",
                                     "src": "/minimum-common-value/",
@@ -3288,5 +3302,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-03-17 02:10:36"
+    "last_update": "2025-03-29 22:11:44"
 } as ProblemCategory;
