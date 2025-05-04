@@ -4599,7 +4599,7 @@ export default{
             "nonLeafChild": [
                 {
                     "title": "§9.1 排列型 ① 相邻无关",
-                    "summary": "学习指南：<br>暴力做法是枚举所有排列，对每个排列计算和题目有关的值，时间复杂度（通常来说）是 $\\mathcal{O}(n!)$。可以解决 $n\\le 10$ 的问题。<br>状压 DP 可以把时间复杂度（通常来说）优化至 $\\mathcal{O}(n\\cdot 2^n)$。可以解决 $n\\le 20$ 的问题。<br>一般有两种定义方式：<br>1. 定义 $f[S]$ 表示已经排列好的元素（下标）集合为 $S$ 时，和题目有关的最优值。通过枚举当前位置要填的元素（下标）来转移。<br>2. 定义 $f[S]$ 表示可以选的元素（下标）集合为 $S$ 时，和题目有关的最优值。通过枚举当前位置要填的元素（下标）来转移。<br>> 注：部分题目由于爆搜+剪枝也能过，难度分仅供参考。<br>",
+                    "summary": "学习指南：<br>暴力做法是枚举所有排列，对每个排列计算和题目有关的值，时间复杂度（通常来说）是 $\\mathcal{O}(n!)$。可以解决 $n\\le 10$ 的问题。<br>状压 DP 可以把时间复杂度（通常来说）优化至 $\\mathcal{O}(n\\cdot 2^n)$。可以解决 $n\\le 20$ 的问题。<br>一般有两种定义方式：<br>1. 定义 $f[S]$ 表示已经排列好的元素（下标）集合为 $S$ 时，和题目有关的最优值。通过枚举当前位置要填的元素（下标）来转移。<br>2. 定义 $f[S]$ 表示可以选的元素（下标）集合为 $S$ 时，和题目有关的最优值。通过枚举当前位置要填的元素（下标）来转移。<br>> 注：部分题目由于暴搜+剪枝也能过，难度分仅供参考。<br>",
                     "src": "",
                     "original_src": "",
                     "sort": 0,
@@ -4664,6 +4664,20 @@ export default{
                             "last_update": ""
                         },
                         {
+                            "title": "3533. 判断连接可整除性",
+                            "summary": "",
+                            "src": "/concatenated-divisibility/",
+                            "original_src": "https://leetcode.cn/problems/concatenated-divisibility/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
                             "title": "1879. 两个数组最小的异或值之和",
                             "summary": "",
                             "src": "/minimum-xor-sum-of-two-arrays/",
@@ -4714,6 +4728,20 @@ export default{
                             "isLeaf": true,
                             "solution": null,
                             "score": 2072.7264178313,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
+                            "title": "3530. 有向无环图中合法拓扑排序的最大利润",
+                            "summary": "",
+                            "src": "/maximum-profit-from-valid-topological-order-in-dag/",
+                            "original_src": "https://leetcode.cn/problems/maximum-profit-from-valid-topological-order-in-dag/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
                             "leafChild": [],
                             "nonLeafChild": [],
                             "isPremium": false,
@@ -7840,6 +7868,20 @@ export default{
                             "last_update": ""
                         },
                         {
+                            "title": "3533. 判断连接可整除性",
+                            "summary": "",
+                            "src": "/concatenated-divisibility/",
+                            "original_src": "https://leetcode.cn/problems/concatenated-divisibility/",
+                            "sort": 0,
+                            "isLeaf": true,
+                            "solution": null,
+                            "score": null,
+                            "leafChild": [],
+                            "nonLeafChild": [],
+                            "isPremium": false,
+                            "last_update": ""
+                        },
+                        {
                             "title": "943. 最短超级串",
                             "summary": "",
                             "src": "/find-the-shortest-superstring/",
@@ -9394,5 +9436,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-04-25 03:27:57"
+    "last_update": "2025-04-27 12:17:42"
 } as ProblemCategory;
