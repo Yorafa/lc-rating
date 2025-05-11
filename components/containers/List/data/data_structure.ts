@@ -3593,6 +3593,20 @@ export default{
                             "score": 0,
                             "leafChild": [
                                 {
+                                    "title": "1670. 设计前中后队列",
+                                    "summary": "",
+                                    "src": "/design-front-middle-back-queue/",
+                                    "original_src": "https://leetcode.cn/problems/design-front-middle-back-queue/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 1610.1866391145,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                },
+                                {
                                     "title": "3508. 设计路由器",
                                     "summary": "",
                                     "src": "/implement-router/",
@@ -3657,20 +3671,6 @@ export default{
                                     "isLeaf": true,
                                     "solution": null,
                                     "score": null,
-                                    "leafChild": [],
-                                    "nonLeafChild": [],
-                                    "isPremium": false,
-                                    "last_update": ""
-                                },
-                                {
-                                    "title": "1670. 设计前中后队列",
-                                    "summary": "",
-                                    "src": "/design-front-middle-back-queue/",
-                                    "original_src": "https://leetcode.cn/problems/design-front-middle-back-queue/",
-                                    "sort": 0,
-                                    "isLeaf": true,
-                                    "solution": null,
-                                    "score": 1610.1866391145,
                                     "leafChild": [],
                                     "nonLeafChild": [],
                                     "isPremium": false,
@@ -4214,6 +4214,20 @@ export default{
                                     "last_update": ""
                                 },
                                 {
+                                    "title": "3478. 选出和最大的 K 个元素",
+                                    "summary": "",
+                                    "src": "/choose-k-elements-with-maximum-sum/",
+                                    "original_src": "https://leetcode.cn/problems/choose-k-elements-with-maximum-sum/",
+                                    "sort": 0,
+                                    "isLeaf": true,
+                                    "solution": null,
+                                    "score": 1753.278205425,
+                                    "leafChild": [],
+                                    "nonLeafChild": [],
+                                    "isPremium": false,
+                                    "last_update": ""
+                                },
+                                {
                                     "title": "2462. 雇佣 K 位工人的总代价",
                                     "summary": "",
                                     "src": "/total-cost-to-hire-k-workers/",
@@ -4236,20 +4250,6 @@ export default{
                                     "isLeaf": true,
                                     "solution": null,
                                     "score": 1797.7466000366,
-                                    "leafChild": [],
-                                    "nonLeafChild": [],
-                                    "isPremium": false,
-                                    "last_update": ""
-                                },
-                                {
-                                    "title": "3478. 选出和最大的 K 个元素",
-                                    "summary": "",
-                                    "src": "/choose-k-elements-with-maximum-sum/",
-                                    "original_src": "https://leetcode.cn/problems/choose-k-elements-with-maximum-sum/",
-                                    "sort": 0,
-                                    "isLeaf": true,
-                                    "solution": null,
-                                    "score": 1753.278205425,
                                     "leafChild": [],
                                     "nonLeafChild": [],
                                     "isPremium": false,
@@ -7979,5 +7979,5 @@ export default{
         }
     ],
     "isPremium": false,
-    "last_update": "2025-04-29 13:32:19"
+    "last_update": "2025-05-07 00:55:58"
 } as ProblemCategory;
